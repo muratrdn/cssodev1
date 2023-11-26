@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: burlywood;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+main {
+    padding: 2rem;
+    background-color: rgb(147, 150, 128);
+}
